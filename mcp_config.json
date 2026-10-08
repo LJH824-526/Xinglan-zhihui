@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "blender": {
+      "command": "C:\\Users\\slk\\venv\\Scripts\\blender-mcp.exe",
+      "args": [],
+      "env": {
+        "PYTHONIOENCODING": "utf-8"
+      }
+    }
+  }
+}
